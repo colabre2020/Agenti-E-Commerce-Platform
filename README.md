@@ -15,4 +15,5 @@ Supports multi-brand online stores, personalized shopping agents, dynamic LLM ro
 
 # High Level Architecture
 
-![Agentic-E-Commerce](https://github.com/user-attachments/assets/45f2c705-1c44-49aa-92d8-71e8dc0377b8)
+
+![Agentic_ECommerce](https://github.com/user-attachments/assets/58d06240-a132-4ccb-9bfb-6af9249faa32)
