@@ -12,3 +12,8 @@ Supports multi-brand online stores, personalized shopping agents, dynamic LLM ro
 - Modular agents for product discovery, cart management, shipping, fraud detection.
 - Transparent, explainable actions and observability.
 - Fully Google-native architecture with OSS agent stack.
+
+# High Level Architecture
+
+![image](https://github.com/user-attachments/assets/de62e2dd-8e12-42d4-9142-ea14f035f016)
+
