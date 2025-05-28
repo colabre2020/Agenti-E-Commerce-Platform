@@ -1,6 +1,6 @@
 # Agentic-E-Commerce-Platform
 
-Agentic AI architecture for an E-Commerce platform, designed in a Google Cloud-native way (using GCP services + open-source agent frameworks), and focused on enabling multi-agent orchestration, LLM flexibility, and modular AI components for personalized, scalable customer and operations experiences
+Agentic AI architecture for an E-Commerce platform, designed in a Google Cloud-native way (using GCP services + open-source agent frameworks), and focused on enabling multi-agent orchestration, LLM flexibility, and modular AI components for personalized, scalable customer and operations experiences.
 
 Supports multi-brand online stores, personalized shopping agents, dynamic LLM routing, and backend automation (e.g. order handling, fraud detection, returns).
 
