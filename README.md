@@ -6,9 +6,9 @@ Supports multi-brand online stores, personalized shopping agents, dynamic LLM ro
 
 # High-Level Goals -
 
-Personalized shopping agents per user/storefront.
-Multimodal understanding (text/image search).
-Dynamically select between open-source and commercial LLMs.
-Modular agents for product discovery, cart management, shipping, fraud detection.
-Transparent, explainable actions and observability.
-Fully Google-native architecture with OSS agent stack.
+- Personalized shopping agents per user/storefront.
+- Multimodal understanding (text/image search).
+- Dynamically select between open-source and commercial LLMs.
+- Modular agents for product discovery, cart management, shipping, fraud detection.
+- Transparent, explainable actions and observability.
+- Fully Google-native architecture with OSS agent stack.
